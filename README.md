@@ -8,4 +8,4 @@ Soy un apasionado de la arquitectura de soluciones en la nube, con experiencia e
 
 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades. 🚀 ¡Hablemos sobre arquitectura en la nube y automatización!
 
-📫 Contáctame: Puedes contactarme en <a href='https://www.facebook.com/jhonoquendov' target="_blank">Facebook</a> e <a href='https://www.instagram.com/jhonoquendo/' target="_blank">Instagram</a>
+📫 Contáctame: Puedes contactarme en <a href='https://www.facebook.com/jhonoquendovi' target="_blank">Facebook</a> e <a href='https://www.instagram.com/jhonoquendo/' target="_blank">Instagram</a>
